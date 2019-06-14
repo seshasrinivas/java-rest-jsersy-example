@@ -39,7 +39,7 @@ Example (matching the input above):
 Where coords are the final coordinates of the hoover and patches is the number of cleaned patches.
 
 
-# Steps to setup:
+# How to setup in eclipse:
 
 This project can run on eclipse with Tomcat 9.0. 
 Once this project is imported to you eclipse workspace, update dependencies with maven.
